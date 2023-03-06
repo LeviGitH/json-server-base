@@ -6,6 +6,52 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "levi@teste.com",
+      "password": "$2a$10$fuYsxhH8XQIzcDWlE7dTqeuY.v0pdFxBVFIrKsJQFgUAbWBzmNwOS",
+      "name": "Levi",
+      "city": "Salvador",
+      "contact": "gmail.com",
+      "id": 2
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$BMkLIlPbPOG9UG1I1HjFBu/uZiuCLZs63sk8fzFX/jqnjgZDXkpta",
+      "name": "teste",
+      "city": "Salvador",
+      "contact": "gmail.com",
+      "id": 3
+    },
+    {
+      "email": "teste2@teste.com",
+      "password": "$2a$10$AzwN/kj/Cy30pg4QdzSjGOkUhFTPjnxSdnBM.PZiGnJDzgeRQV7XG",
+      "name": "teste2",
+      "city": "Salvador",
+      "contact": "gmail.com",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget tempor orci, id placerat massa. Ut aliquet placerat lorem semper faucibus.",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "message": "Etiam non risus nec mi luctus placerat nec nec orci. Ut cursus felis urna, a mattis nulla cursus nec. Praesent auctor tellus ante. Maecenas fringilla facilisis mollis.",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "pets": [
+    {
+      "name": "Rex",
+      "race": "chow chow",
+      "sex": "Macho",
+      "image": "https://www.petlove.com.br/images/breeds/193221/profile/original/pitbull-p.jpg?1532539293",
+      "userId": 3,
+      "id": 1
     }
   ]
 }
